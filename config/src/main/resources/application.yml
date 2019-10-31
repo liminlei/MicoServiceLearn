@@ -7,7 +7,7 @@ spring:
         git:
           uri: https://github.com/liminlei/config-repo
           username: liminlei
-          password: Daohaode\qusi8
+          password: *******
           basedir: E:\workspace\IDEASpace\MicoServiceLearn\config\basedir
 eureka:
   client:
